@@ -1,0 +1,11 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>Jackson Gross</title>
+	</head>
+
+	<body>
+		Hi! My name is Jackson Gross. I am a computer science major at Faulkner University.<br> I love the Lord and swimming.<br> I strive to be a great programmer. 
+	</body>
+</html>	
